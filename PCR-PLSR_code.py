@@ -35,20 +35,16 @@ pd.set_option('future.no_silent_downcasting', True)
 
 paths = {
     'estacion': (
-        r"D:\MEGA\_Maestría en Ingeniería Civil\03 Semestre 3\Trabajo de"
-        r" investigación\Datos\Originales\WeatherStationData.xlsx"
+        r"...WeatherStationData.xlsx"
     ),
     'temp_sup': (
-        r"D:\MEGA\_Maestría en Ingeniería Civil\03 Semestre 3\Trabajo de"
-        r" investigación\Datos\Originales\SurfaceTemperature(CEP,CWP,DEP)_complete.xlsx"
+        r"...SurfaceTemperature(CEP,CWP,DEP)_complete.xlsx"
     ),
     'dron_top': (
-        r"D:\MEGA\_Maestría en Ingeniería Civil\03 Semestre 3\Trabajo de"
-        r" investigación\Datos\Originales\SurfaceTemperatureDroneTop.xlsx"
+        r"...SurfaceTemperatureDroneTop.xlsx"
     ),
     'tc': (
-        r"D:\MEGA\_Maestría en Ingeniería Civil\03 Semestre 3\Trabajo de"
-        r" investigación\Datos\Originales\InternalTemperature.xlsx"
+        r"...InternalTemperature.xlsx"
     ),
 }
 
